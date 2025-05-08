@@ -15,7 +15,7 @@ This is a Solidity-based smart contract that allows users to create events, purc
 ## github link  
 https://github.com/bertheus12/EventTicket_blockchain_technology
 
-## gyoutube link 
+## youtube link 
 https://youtu.be/ANyLoH32b1M
 ##  Tech Stack
 
