@@ -15,6 +15,8 @@ This is a Solidity-based smart contract that allows users to create events, purc
 ## github link  
 https://github.com/bertheus12/EventTicket_blockchain_technology
 
+##youtube link 
+https://youtu.be/ANyLoH32b1M
 ##  Tech Stack
 
 - **Solidity** ^0.8.0
@@ -58,9 +60,9 @@ checking version
 npm -v
 node -v
 npx hardhat help
+npx hardhat compile
 npx hardhat test
 REPORT_GAS=true npx hardhat test
-npx hardhat compile
 npx hardhat node
 npx hardhat run scripts/deploy.js --network localhost
 npm install
